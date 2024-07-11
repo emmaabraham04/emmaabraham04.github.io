@@ -45,8 +45,8 @@ title: Home
   <p><strong>Skills:</strong> Slack, Chervell Service Management, Problem Analysis</p>
 
   <h3>Brand Ambassador at American Eagle Outfitters, Inc</h3>
-  <p><strong>Duration:</strong> June 2021 - June 2024<br>
-  <strong>Responsibilities:</strong></p>
+  <strong>Duration:</strong> June 2021 - June 2024<br>
+  <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Approached strangers and interacted in natural conversation with the goal of developing brand loyalty.</li>
       <li>Designed, filled, and arranged eye-catching product floorsets to increase sales.</li>
@@ -59,18 +59,18 @@ title: Home
   <h2>Campus Involvement</h2>
 
   <h3>Clemson Association for Information Systems (AIS)</h3>
-  <p><strong>President</strong> | March 2024 - Present<br>
-  <strong>Responsibilities:</strong></p>
+  <strong>President</strong> | March 2024 - Present<br>
+  <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Plan and host events with companies to help members network and gain industry experience.</li>
   </ul>
-  <p><strong>Vice President</strong> | September 2023 - March 2024<br>
-  <strong>Responsibilities:</strong></p>
+  <strong>Vice President</strong> | September 2023 - March 2024<br>
+  <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Assist the president and other officers in completing their duties.</li>
   </ul>
-  <p><strong>Marketing Coordinator</strong> | September 2022 - March 2024<br>
-  <strong>Responsibilities:</strong></p>
+  <strong>Marketing Coordinator</strong> | September 2022 - March 2024<br>
+  <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Promote events on social media. Reach potential members and provide an ease of communication.</li>
   </ul>
