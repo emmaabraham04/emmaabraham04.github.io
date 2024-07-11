@@ -1,21 +1,32 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+title: "Emma Abraham"
+author: "Emma Abraham"
+description: "Clemson University Student"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# twitter summary info
-description: A blog about technology and stuff related
+picture: ./Best.jpg
 
-picture: assets/images/picture.jpg
-
-url: http://koppl.in/violet
+url: https://emmaabraham04.github.io/
 # your url: http://USERNAME.github.io
 
-# if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+# Layout
+show_social: true          # show site descritopn and social links in the header
+show_excerpts: false       # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
+navigation:   # accepts {file, title, url, icon, sidebaricon}
+  - {file: "EmmaAbrahamResume.pdf", title: "Resume"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:abraha9@clemson.edu"}
+  - {title: Github, icon: github, url: "https://github.com/abraha9"}
+  - {title: LinkedIn, icon: linkedin, url: "www.linkedin.com/in/emma-a-abraham"}
+  
 gems:
   - jekyll-seo-tag
 
