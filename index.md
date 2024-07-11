@@ -102,6 +102,6 @@ title: Home
   <strong>Skills:</strong> Markdown, Squarespace</p>
 
   <h3>Clemson AIS Website</h3>
-  <p>As president, I created the website for <a href="https://cuais3.wixsite.com/clemsonais">Clemson Association for Information Systems</a>. This is the first website I ever created. In the future, I plan on remastering this website and move it over to GitHub.<br>
+  <p>As President, I created the website for <a href="https://cuais3.wixsite.com/clemsonais">Clemson Association for Information Systems</a>. This is the first website I ever created. In the future, I plan on remastering this website and move it over to GitHub.<br>
   <strong>Skills:</strong> Web Design</p>
 
