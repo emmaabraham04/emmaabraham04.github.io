@@ -12,21 +12,6 @@ picture: ./Best.jpg
 url: https://emmaabraham04.github.io/
 # your url: http://USERNAME.github.io
 
-# Layout
-show_social: true          # show site descritopn and social links in the header
-show_excerpts: false       # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
-
-navigation:   # accepts {file, title, url, icon, sidebaricon}
-  - {file: "EmmaAbrahamResume.pdf", title: "Resume"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:abraha9@clemson.edu"}
-  - {title: Github, icon: github, url: "https://github.com/abraha9"}
-  - {title: LinkedIn, icon: linkedin, url: "www.linkedin.com/in/emma-a-abraham"}
-  
 gems:
   - jekyll-seo-tag
 
