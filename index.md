@@ -12,23 +12,19 @@ title: Home
   </h1>
 
   <p>
-    Some Cool Company</br>
-    Brazil, Barueri-SP</br>
-    Front-end Developer
+    Emma Abraham</br>
+    B.S. Computer Science</br>
+    Cybersecurity Minor
   </p>
 
   <nav>
     <ul>
-      <li><a href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
-      <li><a href="https://github.com/{{ site.github }}">Github</a></li>
-      <li><a href="mailto:{{ site.email }}">me AT jane DOT doe</a></li>
+      <li><a href="www.linkedin.com/in/emma-a-abraham">LinkedIn</a></li>
+      <li><a href="https://github.com/abraha9">Github</a></li>
+      <li><a href="mailto:abraha9@clemson.edu">me AT jane DOT doe</a></li>
     </ul>
   </nav>
 
-  <small>
-    <a href="https://github.com/sergiokopplin/violet">Violet</a> theme
-    <br> inspired on <a href="http://cyberglot.me/">Ju Gonçalves</a>
-  </small>
 </header>
 
 <section class="content">
