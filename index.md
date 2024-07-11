@@ -37,7 +37,7 @@ title: Home
   <h3>Student Assistant V at Clemson University</h3>
   <p><strong>Duration:</strong> June 2024 - Present<br>
   <strong>Responsibilities:</strong></p>
-  <ul>
+  <ul style="list-style-type:square;">
       <li>Provide IT customer support via phone call, chat, email, or in person</li>
       <li>Make quick decisions for the best course of action regarding each issue.</li>
       <li>Follow procedures to maximize efficiency between the Help Desk and other areas of CCIT.</li>
