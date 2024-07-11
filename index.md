@@ -63,22 +63,22 @@ title: Home
   <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Plan and host events with companies to help members network and gain industry experience.</li>
-  </ul></p>
+  </ul>
   <p></p><strong>Vice President</strong> | September 2023 - March 2024<br>
   <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Assist the president and other officers in completing their duties.</li>
-  </ul></p>
+  </ul>
   <p></p><strong>Marketing Coordinator</strong> | September 2022 - March 2024<br>
   <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Promote events on social media. Reach potential members and provide an ease of communication.</li>
-  </ul><p>
+  </ul>
   <p><strong>Skills:</strong> Event Planning, Leadership, Team Management, Problem Solving, Networking, Graphic Design, Attention to Detail</p>
 
   <h3>Clemson Forge</h3>
-  <p><strong>Chair of Professional Development</strong> | June 2024 - Present<br>
-  <strong>Responsibilities:</strong></p>
+  <strong>Chair of Professional Development</strong> | June 2024 - Present<br>
+  <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Assist in professional development aspects, help organize development events, and provide useful links to look towards.</li>
       <li>Help the President get speakers for events.</li>
@@ -88,7 +88,7 @@ title: Home
   <hr>
 
   <h2>Awards and Achievements</h2>
-   <ul style="list-style-type:circle;">
+   <ul>
       <li><strong>President's List</strong> - Fall 2023</li>
       <li><strong>President's List</strong> - Spring 2024</li>
   </ul>
@@ -105,4 +105,3 @@ title: Home
   <p>As president, I created the website for <a href="https://cuais3.wixsite.com/clemsonais">Clemson Association for Information Systems</a>. This is the first website I ever created. In the future, I plan on remastering this website and move it over to GitHub.<br>
   <strong>Skills:</strong> Web Design</p>
 
-</section>
