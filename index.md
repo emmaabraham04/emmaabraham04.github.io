@@ -35,8 +35,8 @@ title: Home
   <h2>Experience</h2>
 
   <h3>Student Assistant V at Clemson University</h3>
-  <p><strong>Duration:</strong> June 2024 - Present<br>
-  <strong>Responsibilities:</strong></p>
+  <p><strong>Duration:</strong> June 2024 - Present</p>
+  <strong>Responsibilities:</strong>
   <ul style="list-style-type:circle;">
       <li>Provide IT customer support via phone call, chat, email, or in person</li>
       <li>Make quick decisions for the best course of action regarding each issue.</li>
