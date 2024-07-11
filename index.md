@@ -28,22 +28,72 @@ title: Home
 </header>
 
 <section class="content">
-  <p>
-    Student at School of Code, creator of <a href="http://aweso.me/">Awesome</a>. Front-end Developer looking for responsive challenges. Programmer at <a href="https://google.com/search?q=cool+company">Cool Company</a>.
-  </p>
+## About Me ##
+I'm an Junior undergraduate student at Clemson University.<br> 
+I'm currently pursuing a B.S. in Computer Science with a minor in Cybersecurity.
 
-  <p>
-    Member of the <a href="https://google.com/search?q=big+bang+theory+show">The Big Band Theory</a>, playing drums with love. Recording a new disco inside my garage. Willing to be the new Slayer girl drummer. <a href="https://google.com/search?q=black+metal">Black Metal lover</a>.
-  </p>
+***
 
-  <p>
-    <strong>Study Interests</strong></br>
-    Javascript without <a href="http://vanilla-js.com/">jQuery</a>. Lorem Ipsum generators. Bands that don't exist yet.
-  </p>
+## Experience ##
 
-  <p>
-    <strong>Projects</strong></br>
-    <a href="http://aweso.me/">Awesome Project</a>. Just some jQuery lib.
-    <br>My band, on weekends. <a href="https://google.com/search?q=my+band">The Big Band Theory</a>
-  </p>
+### Student Assistant V at Clemson University ###
+**Duration:** June 2024 - Present<br>
+**Responsibilites:**
+- Provide IT customer support via phone call, chat, email, or in person
+- Make quick decisions for the best course of action regarding each issue.
+- Follow procedures to maximize efficiency between the Help Desk and other areas of CCIT.<br>
+
+**Skills:** Slack, Chervell Service Management, Problem Analysis
+
+### Brand Ambassador at American Eagle Outfitters, Inc ###
+**Duration:** June 2021 - June 2024<br>
+**Responsibilites:**
+- Approached strangers and interacted in natural conversation with the goal of developing brand loyalty. 
+- Designed, filled, and arranged eye-catching product floorsets to increase sales.
+- Communicated product information with confidence.<br>
+
+**Skills:** Sales, Communication
+
+***
+## Campus Involvement ##
+
+### Clemson Association for Information Systems (AIS) ###
+**President** | March 2024 - Present<br>
+**Responsibilites:**
+- Plan and host events with companies to help members network and gain industry experience.<br>
+
+**Vice President** | September 2023 - March 2024<br>
+**Responsibilites:**
+- Assist the president and other officers in completing their duties.<br>
+
+**Marketing Coordinator** | September 2022 - March 2024
+- Promote events on social media. Reach potential members and provide an ease of communication.<br>
+
+**Skills:** Event Planning, Leadership, Team Management, Problem Solving, Networking, Graphc Design, Attention to Detail
+
+### Clemson Forge ###
+**Chair of Professional Development** | June 2024 - Present
+- Assist in professional development aspects, help organize development events, and provide useful links to look towards.
+- Help the President get speakers for events.<br>
+
+**Skills:** Communication, Organization
+
+***
+## Awards and Achievements ##
+
+### Presidents List ###
+- Fall 2023
+- Spring 2024
+
+***
+## Projects ##
+
+### Solace Charities ###
+My current passion project is redoing the US website for [Solace Charities](https://www.solacecharities.org/).Solace Charities is dedicated to supporting sick and underprivileges children and their families in Kerala, India. They provide housing, travel, and financial support for these families. <br> 
+**Skills:** Markdown, Squarespace
+
+### Clemson AIS Website ###
+As president, I created the website for [Clemson Association for Information Systems](https://cuais3.wixsite.com/clemsonais). This is the first website I ever created. In the futue I plan on remastering this website, by moving it over to Github. <br>
+**Skills:** Web Design
+
 </section>
