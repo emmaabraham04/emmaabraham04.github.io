@@ -35,13 +35,13 @@ title: Home
   <h2>Experience</h2>
 
   <h3>Student Assistant V at Clemson University</h3>
-  <p><strong>Duration:</strong> June 2024 - Present<br>
+  <strong>Duration:</strong> June 2024 - Present<br>
   <strong>Responsibilities:</strong>
   <ul style="list-style-type:circle;">
       <li>Provide IT customer support via phone call, chat, email, or in person</li>
       <li>Make quick decisions for the best course of action regarding each issue.</li>
       <li>Follow procedures to maximize efficiency between the Help Desk and other areas of CCIT.</li>
-  </ul></p>
+  </ul>
   <p><strong>Skills:</strong> Slack, Chervell Service Management, Problem Analysis</p>
 
   <h3>Brand Ambassador at American Eagle Outfitters, Inc</h3>
