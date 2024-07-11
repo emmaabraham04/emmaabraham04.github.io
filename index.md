@@ -7,10 +7,6 @@ title: Home
     <img src="./Best.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
   </div>
 
-  <h1>
-    <strong><a href="./">{{ site.name }}</a></strong>
-  </h1>
-
   <p>
     Emma Abraham<br>
     B.S. Computer Science<br>
