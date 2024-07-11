@@ -7,9 +7,9 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-picture: 
+image: 
 <div style="text-align: center;">
-  <img src="./Best.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+    <img src="/Best.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
 </div>
 
 # ./Best.jpg
