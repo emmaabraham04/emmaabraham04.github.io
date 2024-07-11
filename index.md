@@ -59,21 +59,21 @@ title: Home
   <h2>Campus Involvement</h2>
 
   <h3>Clemson Association for Information Systems (AIS)</h3>
-  <strong>President</strong> | March 2024 - Present<br>
+  <p></p><strong>President</strong> | March 2024 - Present<br>
   <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Plan and host events with companies to help members network and gain industry experience.</li>
-  </ul>
-  <strong>Vice President</strong> | September 2023 - March 2024<br>
+  </ul></p>
+  <p></p><strong>Vice President</strong> | September 2023 - March 2024<br>
   <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Assist the president and other officers in completing their duties.</li>
-  </ul>
-  <strong>Marketing Coordinator</strong> | September 2022 - March 2024<br>
+  </ul></p>
+  <p></p><strong>Marketing Coordinator</strong> | September 2022 - March 2024<br>
   <strong>Responsibilities:</strong>
    <ul style="list-style-type:circle;">
       <li>Promote events on social media. Reach potential members and provide an ease of communication.</li>
-  </ul>
+  </ul><p>
   <p><strong>Skills:</strong> Event Planning, Leadership, Team Management, Problem Solving, Networking, Graphic Design, Attention to Detail</p>
 
   <h3>Clemson Forge</h3>
