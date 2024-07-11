@@ -37,7 +37,7 @@ title: Home
   <h3>Student Assistant V at Clemson University</h3>
   <p><strong>Duration:</strong> June 2024 - Present<br>
   <strong>Responsibilities:</strong></p>
-  <ul style="list-style-type:square;">
+  <ul style="list-style-type:disk;">
       <li>Provide IT customer support via phone call, chat, email, or in person</li>
       <li>Make quick decisions for the best course of action regarding each issue.</li>
       <li>Follow procedures to maximize efficiency between the Help Desk and other areas of CCIT.</li>
@@ -47,7 +47,7 @@ title: Home
   <h3>Brand Ambassador at American Eagle Outfitters, Inc</h3>
   <p><strong>Duration:</strong> June 2021 - June 2024<br>
   <strong>Responsibilities:</strong></p>
-  <ul>
+   <ul style="list-style-type:disk;">
       <li>Approached strangers and interacted in natural conversation with the goal of developing brand loyalty.</li>
       <li>Designed, filled, and arranged eye-catching product floorsets to increase sales.</li>
       <li>Communicated product information with confidence.</li>
@@ -61,17 +61,17 @@ title: Home
   <h3>Clemson Association for Information Systems (AIS)</h3>
   <p><strong>President</strong> | March 2024 - Present<br>
   <strong>Responsibilities:</strong></p>
-  <ul>
+   <ul style="list-style-type:disk;">
       <li>Plan and host events with companies to help members network and gain industry experience.</li>
   </ul>
   <p><strong>Vice President</strong> | September 2023 - March 2024<br>
   <strong>Responsibilities:</strong></p>
-  <ul>
+   <ul style="list-style-type:disk;">
       <li>Assist the president and other officers in completing their duties.</li>
   </ul>
   <p><strong>Marketing Coordinator</strong> | September 2022 - March 2024<br>
   <strong>Responsibilities:</strong></p>
-  <ul>
+   <ul style="list-style-type:disk;">
       <li>Promote events on social media. Reach potential members and provide an ease of communication.</li>
   </ul>
   <p><strong>Skills:</strong> Event Planning, Leadership, Team Management, Problem Solving, Networking, Graphic Design, Attention to Detail</p>
@@ -79,7 +79,7 @@ title: Home
   <h3>Clemson Forge</h3>
   <p><strong>Chair of Professional Development</strong> | June 2024 - Present<br>
   <strong>Responsibilities:</strong></p>
-  <ul>
+   <ul style="list-style-type:disk;">
       <li>Assist in professional development aspects, help organize development events, and provide useful links to look towards.</li>
       <li>Help the President get speakers for events.</li>
   </ul>
@@ -88,7 +88,7 @@ title: Home
   <hr>
 
   <h2>Awards and Achievements</h2>
-  <ul>
+   <ul style="list-style-type:disk;">
       <li><strong>President's List</strong> - Fall 2023</li>
       <li><strong>President's List</strong> - Spring 2024</li>
   </ul>
