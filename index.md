@@ -18,6 +18,7 @@ title: Home
       <li><a href="www.linkedin.com/in/emma-a-abraham">LinkedIn</a></li>
       <li><a href="https://github.com/abraha9">Github</a></li>
       <li><a href="mailto:abraha9@clemson.edu">Email</a></li>
+      <li><a href="EmmaAbrahamResume.pdf">Resume</a></li>
     </ul>
   </nav>
 
