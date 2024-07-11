@@ -12,8 +12,8 @@ title: Home
   </h1>
 
   <p>
-    Emma Abraham</br>
-    B.S. Computer Science</br>
+    Emma Abraham<br>
+    B.S. Computer Science<br>
     Cybersecurity Minor
   </p>
 
