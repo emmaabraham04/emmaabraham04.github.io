@@ -21,13 +21,14 @@ title: Home
     <ul>
       <li><a href="www.linkedin.com/in/emma-a-abraham">LinkedIn</a></li>
       <li><a href="https://github.com/abraha9">Github</a></li>
-      <li><a href="mailto:abraha9@clemson.edu">me AT jane DOT doe</a></li>
+      <li><a href="mailto:abraha9@clemson.edu">Email</a></li>
     </ul>
   </nav>
 
 </header>
 
 <section class="content">
+  
 ## About Me ##
 I'm an Junior undergraduate student at Clemson University.<br> 
 I'm currently pursuing a B.S. in Computer Science with a minor in Cybersecurity.
