@@ -105,3 +105,7 @@ title: Home
   <p>As President, I created the website for <a href="https://cuais3.wixsite.com/clemsonais">Clemson Association for Information Systems</a>. This is the first website I ever created. In the future, I plan on remastering this website and move it over to GitHub.<br>
   <strong>Skills:</strong> Web Design</p>
 
+<footer>
+  <p>Blah blah blah
+  </p>
+</footer>
