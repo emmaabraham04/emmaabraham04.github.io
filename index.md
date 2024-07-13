@@ -23,20 +23,11 @@ title: Home
   </nav>
 
   <p>
-    <strong>Programing Languages:</strong>
-      <ul style="list-style-type:circle;">
-        <li>C</li>
-        <li>C++</li>
-        <li>Java</li>
-      </ul>
+    <strong>Programing Languages:</strong> C, C++, Java
   </p>
 
   <p>
-    <strong>Learning:</strong>
-      <ul style="list-style-type:circle;">
-        <li>Python</li>
-        <li>HTML</li>
-      </ul>
+    <strong>Learning:</strong> Python, HTML
   </p>
 </header>
 
