@@ -22,6 +22,22 @@ title: Home
     </ul>
   </nav>
 
+  <p>
+    <strong>Programing Languages:</strong>
+      <ul style="list-style-type:circle;">
+        <li>C</li>
+        <li>C++</li>
+        <li>Java</li>
+      </ul>
+  </p>
+
+  <p>
+    <strong>Learning:</strong>
+      <ul style="list-style-type:circle;">
+        <li>Python</li>
+        <li>HTML</li>
+      </ul>
+  </p>
 </header>
 
 <section class="content">
