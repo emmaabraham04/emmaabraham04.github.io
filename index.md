@@ -104,11 +104,22 @@ title: Home
 
   <h2>Projects</h2>
 
-  <h3>Solace Charities</h3>
-  <p>My current passion project is redoing the US website for <a href="https://www.solacecharities.org/">Solace Charities</a>. Solace Charities is dedicated to supporting sick and underprivileged children and their families in Kerala, India. They provide housing, travel, and financial support for these families.<br>
+  <h3>Solace Charities Website</h3>
+  <p>My current passion project is redoing the US website for <a href="https://www.solacecharities.org/">Solace Charities</a>. 
+  Solace Charities is dedicated to supporting sick and underprivileged children and their families in Kerala, India. 
+  They provide housing, travel, and financial support for these families.<br>
   <strong>Skills:</strong> Markdown, Squarespace</p>
 
+  <h3>Lumosfit Website</h3>
+  <p>My most recent completed project is creating the website for <a href="https://www.lumosfit.com/">Lumosfit</a>. A contact from 
+  Solace Charities recommended me to the founder of LumosFit as someone capable of creating their website. Lumosfit is a healthcare
+  startup dedicated to "Accelerating Diabetes Prevention". I am very greatful for the recommendation as it allowed me to gain more 
+  experience with working with a company professionlly.<br>
+  <strong>Skills:</strong> HTML, WordPress, Web Design</p>
+
   <h3>Clemson AIS Website</h3>
-  <p>As President, I created the website for <a href="https://cuais3.wixsite.com/clemsonais">Clemson Association for Information Systems</a>. This is the first website I ever created. In the future, I plan on remastering this website and move it over to GitHub.<br>
+  <p>As President, I created the website for <a href="https://cuais3.wixsite.com/clemsonais">Clemson Association for Information
+  Systems</a>. This is the first website I ever created. In the future, I plan on remastering this website and move it over to
+  GitHub.<br>
   <strong>Skills:</strong> Web Design</p>
 
