@@ -205,13 +205,14 @@ export default function App() {
 
         <Section id="experience" title="Experience">
           <Card>
-            <JobHeader title="Network Operations Intern" org="Network Operations Center" dates="August 2025 – Present" />
+            <JobHeader title="Web Development / Design Intern" org="AFL Telecommunications" dates="January 2026 – Present" />
             <BulletList items={[
-              "Improved the NOC website's readability, navigation, and accessibility using JavaScript, Python, HTML, and CSS, making it easier for 20 NOC staff to quickly access critical resources.",
-              "Collaborated with a 3-intern team and 20 NOC staff, utilizing tools and APIs such as Netdisco, Cisco Catalyst Center, and Splunk to enhance monitoring, streamline troubleshooting, and deliver more efficient network solutions.",
+              "Collaborate with the Interactive Marketing team to develop and maintain responsive web interfaces for corporate website and intranet properties.",
+              "Assist in testing, debugging, and optimizing the existing codebase to ensure cross-browser compatibility and adherence to web standards.",
             ]} />
-            <Tags items={["JavaScript", "Python", "HTML", "Splunk", "Cisco"]} />
+            <Tags items={["React", "SQL", "Time Management"]} />
           </Card>
+
           <Card>
             <JobHeader title="Student Assistant V" org="Clemson University – CCIT" dates="June 2024 – Present" />
             <BulletList items={[
@@ -221,6 +222,16 @@ export default function App() {
             ]} />
             <Tags items={["Slack", "Cherwell Service Management", "Problem Analysis"]} />
           </Card>
+          
+          <Card>
+            <JobHeader title="Network Operations Intern" org="Network Operations Center - CCIT" dates="August 2025 – December 2025" />
+            <BulletList items={[
+              "Improved the NOC website's readability, navigation, and accessibility using JavaScript, Python, HTML, and CSS, making it easier for 20 NOC staff to quickly access critical resources.",
+              "Collaborated with a 3-intern team and 20 NOC staff, utilizing tools and APIs such as Netdisco, Cisco Catalyst Center, and Splunk to enhance monitoring, streamline troubleshooting, and deliver more efficient network solutions.",
+            ]} />
+            <Tags items={["JavaScript", "Python", "HTML", "Splunk", "Cisco"]} />
+          </Card>
+
           <Card>
             <JobHeader title="Brand Ambassador" org="American Eagle Outfitters, Inc." dates="June 2021 – June 2024" />
             <BulletList items={[
