@@ -166,7 +166,7 @@ export default function App() {
       {/* LEFT SIDEBAR */}
       <aside style={{ position: "fixed", top: 0, left: 0, width: "230px", height: "100vh", padding: "44px 24px", display: "flex", flexDirection: "column", gap: "22px", borderRight: `1px solid ${c.navyBorder}`, overflowY: "auto", background: "rgba(10,15,46,0.98)", zIndex: 10 }}>
         <img
-          src="/assets/Best.jpg"
+          src="my-portfolio/public/Best.jpg"
           alt="Emma Abraham"
           style={{ width: "110px", height: "110px", borderRadius: "50%", objectFit: "cover", display: "block", margin: "0 auto", border: `3px solid ${c.pink}`, boxShadow: "0 0 24px rgba(255,105,180,0.35)" }}
         />
@@ -186,7 +186,7 @@ export default function App() {
           <ExternalLink href="https://www.linkedin.com/in/emma-a-abraham/">LinkedIn</ExternalLink>
           <ExternalLink href="https://github.com/emmaabraham04">GitHub</ExternalLink>
           <ExternalLink href="mailto:emmaabraham2004@gmail.com">Email</ExternalLink>
-          <ExternalLink href="/assets/EmmaAbrahamResume.pdf">Resume</ExternalLink>
+          <ExternalLink href="my-portfolio/public/EmmaAbrahamResume.pdf">Resume</ExternalLink>
         </div>
       </aside>
 
