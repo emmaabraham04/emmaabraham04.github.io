@@ -233,7 +233,7 @@ export default function App() {
           </Card>
 
           <Card>
-            <JobHeader title="Brand Ambassador" org="American Eagle Outfitters, Inc." dates="June 2021 – June 2024" />
+            <JobHeader title="Brand Ambassador / Sales Associate" org="American Eagle Outfitters, Inc." dates="June 2021 – June 2024" />
             <BulletList items={[
               "Approached strangers and interacted in natural conversation with the goal of developing brand loyalty.",
               "Designed, filled, and arranged eye-catching product floorsets to increase sales.",
