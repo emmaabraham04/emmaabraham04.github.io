@@ -261,13 +261,19 @@ export default function App() {
             ))}
             <Tags items={["Event Planning", "Leadership", "Team Management", "Networking", "Graphic Design"]} />
           </Card>
+
           <Card>
-            <JobHeader title="Clemson Forge" org="Chair of Professional Development" dates="June 2024 – Present" />
+            <JobHeader title="Clemson Forge" org="Chair of Professional Development" dates="June 2024 – June 2025" />
             <BulletList items={[
               "Assist in professional development aspects, help organize development events, and provide useful links.",
               "Help the President get speakers for events.",
             ]} />
             <Tags items={["Communication", "Organization"]} />
+          </Card>
+
+          <Card>
+            <JobHeader title="Clemson College Loops" org="Member" dates="August 2022 – Present" />
+          
           </Card>
         </Section>
 
@@ -322,7 +328,7 @@ export default function App() {
         </Section>
 
         <footer style={{ marginTop: "60px", paddingTop: "24px", borderTop: `1px solid ${c.navyBorder}`, textAlign: "center", fontSize: "0.8em", color: c.pink, opacity: 0.7 }}>
-          Updated 03-03-2026 by Emma Abraham · Clemson, SC
+          Updated 03-09-2026 by Emma Abraham · Clemson, SC
         </footer>
       </main>
 
