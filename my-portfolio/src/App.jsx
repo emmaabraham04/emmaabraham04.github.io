@@ -195,9 +195,12 @@ export default function App() {
 
         <Section id="about" title="About Me">
           <p style={{ lineHeight: 1.85, fontSize: "1.02em" }}>
-            I'm a senior undergraduate student at Clemson University, pursuing a B.S. in Computer Science
-            with a minor in Cybersecurity and Artificial Intelligence. I'm passionate about web development,
-            network operations, and using technology to solve real-world problems.
+            I am a recent graduate of Clemson University, earning my Bachelor of Science in Computer Science with a minor in Artificial Intelligence. 
+            During my time at Clemson, I served as President of the Association for Information Systems, where I led events to connect students with 
+            industry professionals and opportunities in tech. I also gained hands-on experience working at Clemson Computing and Information Technology's 
+            Student Support Center, interning at Clemson Computing and Information Technology's Network Operations Center, and interning at AFL as a Web 
+            Development and Design Intern. I am passionate about the intersection of development, security, and emerging AI technologies, and I am 
+            actively seeking opportunities to continue growing and making an impact.
           </p>
         </Section>
 
@@ -205,7 +208,7 @@ export default function App() {
 
         <Section id="experience" title="Experience">
           <Card>
-            <JobHeader title="Web Development / Design Intern" org="AFL Telecommunications" dates="January 2026 – Present" />
+            <JobHeader title="Web Development / Design Intern" org="AFL Telecommunications" dates="January 2026 – May 2026" />
             <BulletList items={[
               "Collaborate with the Interactive Marketing team to develop and maintain responsive web interfaces for corporate website and intranet properties.",
               "Assist in testing, debugging, and optimizing the existing codebase to ensure cross-browser compatibility and adherence to web standards.",
@@ -214,7 +217,7 @@ export default function App() {
           </Card>
 
           <Card>
-            <JobHeader title="Student Assistant V" org="Clemson University – CCIT" dates="June 2024 – Present" />
+            <JobHeader title="Student Assistant V" org="Clemson University – CCIT" dates="June 2024 – May 2026" />
             <BulletList items={[
               "Provide IT customer support via phone call, chat, email, or in person.",
               "Make quick decisions for the best course of action regarding each issue.",
@@ -249,7 +252,7 @@ export default function App() {
           <Card>
             <p style={{ margin: "0 0 16px", fontWeight: "bold", fontSize: "1.05em", color: c.pink }}>Clemson Association for Information Systems (AIS)</p>
             {[
-              { role: "President", dates: "March 2024 – Present", bullets: ["Plan and host events with companies to help members network and gain industry experience."] },
+              { role: "President", dates: "March 2024 – May 2026", bullets: ["Plan and host events with companies to help members network and gain industry experience."] },
               { role: "Vice President", dates: "September 2023 – March 2024", bullets: ["Assist the president and other officers in completing their duties."] },
               { role: "Marketing Coordinator", dates: "September 2022 – March 2024", bullets: ["Promote events on social media. Reach potential members and provide an ease of communication."] },
             ].map(({ role, dates, bullets }) => (
@@ -272,7 +275,7 @@ export default function App() {
           </Card>
 
           <Card>
-            <JobHeader title="Clemson College Loops" org="Member" dates="August 2022 – Present" />
+            <JobHeader title="Clemson College Loops" org="Member" dates="August 2022 – May 2026" />
           
           </Card>
         </Section>
