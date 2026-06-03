@@ -174,7 +174,7 @@ export default function App() {
           <p style={{ margin: "0 0 6px", fontWeight: "bold", fontSize: "1.15em", color: c.cream }}>Emma Abraham</p>
           <p style={{ margin: 0, color: c.pink, fontSize: "0.82em", lineHeight: 1.6 }}>
             B.S. Computer Science<br />Cybersecurity & AI Minor<br />
-            <span style={{ color: c.pinkLight }}>Clemson University</span>
+            <span style={{ color: c.pinkLight }}>Clemson University Alumni</span>
           </p>
         </div>
         <nav style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
@@ -331,7 +331,7 @@ export default function App() {
         </Section>
 
         <footer style={{ marginTop: "60px", paddingTop: "24px", borderTop: `1px solid ${c.navyBorder}`, textAlign: "center", fontSize: "0.8em", color: c.pink, opacity: 0.7 }}>
-          Updated 06-03-2026 by Emma Abraham · Clemson, SC
+          Updated 06-03-2026 by Emma Abraham · Go Tigers
         </footer>
       </main>
 
