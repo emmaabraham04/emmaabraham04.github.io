@@ -331,7 +331,7 @@ export default function App() {
         </Section>
 
         <footer style={{ marginTop: "60px", paddingTop: "24px", borderTop: `1px solid ${c.navyBorder}`, textAlign: "center", fontSize: "0.8em", color: c.pink, opacity: 0.7 }}>
-          Updated 03-09-2026 by Emma Abraham · Clemson, SC
+          Updated 06-03-2026 by Emma Abraham · Clemson, SC
         </footer>
       </main>
 
